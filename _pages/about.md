@@ -28,8 +28,8 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 </div>
 
 # 🎖 Honors and Awards
-- *2024.05* Our team secured the 2nd place and innovation solution(Honorable Mention) in the track 4: Robust Depth Estimation of Robodrive Challenge! Check out our [report](https://robodrive-24.github.io/track4_buaa_trans.pdf) and [report](https://robodrive-24.github.io/workshop.pdf) 
-- *2023.06* Our team won the 1st place in the First Onsite Autonomous Driving Algorithm Challenge. 
+- *2024.05*, Our team secured the 2nd place and innovation solution(Honorable Mention) in the track 4: Robust Depth Estimation of Robodrive Challenge! Check out our [report](https://robodrive-24.github.io/track4_buaa_trans.pdf) and [report](https://robodrive-24.github.io/workshop.pdf) 
+- *2023.06*, Our team won the 1st place in the First Onsite Autonomous Driving Algorithm Challenge. 
 
 # 📖 Educations
 - *2023.09 - 2025.01 (now)*, Master of Engineering, Transportation Engineering, Beihang University, Beijing, China. 
