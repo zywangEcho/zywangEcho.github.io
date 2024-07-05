@@ -37,7 +37,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 - *2019.09 - 2023.06*, Bachelor of Engineering, Transportation Engineering, Beihang University, Beijing, China. 
 
 # 💬 Invited Talks 
-- *2024.05*, Reported at [ICRA 2024] The RoboDrive Challenge\| [\[video\]]((https://www.bilibili.com/video/BV11H4y1M7mp/?spm_id_from=333.337.search-card.all.click&vd_source=b8af9686fdf35815464746b215fc26e5))
+- *2024.05*, Reported at [ICRA 2024] The RoboDrive Challenge\| [\[video\]](https://www.bilibili.com/video/BV11H4y1M7mp/?spm_id_from=333.337.search-card.all.click&vd_source=b8af9686fdf35815464746b215fc26e5)
 
 # 📚 Academic Services
 ## Journal Reviewer
