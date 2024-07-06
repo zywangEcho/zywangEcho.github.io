@@ -28,7 +28,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 </div>
 
 # 🎖 Honors and Awards
-- *2024.05*, Our team secured the 2nd place and innovation solution (Honorable Mention) in the track 4: Robust Depth Estimation of Robodrive Challenge. | [\[report\]](https://robodrive-24.github.io/track4_buaa_trans.pdf) and [\[video\]](https://www.bilibili.com/video/BV11H4y1M7mp/?spm_id_from=333.337.search-card.all.click&vd_source=b8af9686fdf35815464746b215fc26e5)
+- *2024.05*, Our team secured the 2nd place and innovation solution (Honorable Mention) in the track 4: Robust Depth Estimation of Robodrive Challenge. \| [\[report\]](https://robodrive-24.github.io/track4_buaa_trans.pdf) \|  [\[video\]](https://www.bilibili.com/video/BV11H4y1M7mp/?spm_id_from=333.337.search-card.all.click&vd_source=b8af9686fdf35815464746b215fc26e5)
 - *2023.06*, Our team won the 1st place in the First Onsite Autonomous Driving Algorithm Challenge.
 - *2022.06*, Our team won the second prize in the main track of the 32nd Beihang "Feng Ru Cup".
 
