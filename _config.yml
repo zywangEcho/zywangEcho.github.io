@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : ""
-description              : ""
+title                    : "Ziyan Wang"
+description              : "Master candidate at BUAA. Focusing on interactive behavior in complex scenarios for autonomous driving."
 repository               : "zywangEcho/zywangEcho.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ziyan Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : ""
+  bio              : "Beihang University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "zywangEcho"
   google_plus      :
   keybase          :
   instagram        :
