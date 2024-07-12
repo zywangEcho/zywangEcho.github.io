@@ -12,7 +12,7 @@ redirect_from:
 
 Hi! I am a postgraduate student with the School of Transportation Science and Engineering, Key Laboratory of Autonomous Transportation Technology for Special Vehicles, Ministry of Industry and Information Technology, Beihang University and is supervised by Professor Peng Chen. Before that, I got my Bachelor degree at Beihang University.
 
-My research interests cover multi-agent interaction modeling in traffic flow and integration of prediction and planning for intelligent vehicles. **I am looking for like-minded researchers to collaborate on interaction behavior and interaction-based closed-loop simulation models for complex scenarios in autonomous driving.**
+My research interests cover multi-agent interaction modeling in traffic flow and integration of prediction and planning for intelligent vehicles. **I am looking for like-minded researchers to collaborate on interaction-based closed-loop simulation models for complex scenarios in autonomous driving.**
 
 # 📝 Publications 
 
