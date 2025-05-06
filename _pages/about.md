@@ -44,5 +44,6 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 # 📚 Academic Services
 ## Journal Reviewer
 - Journal of Intelligent Transportation Systems
+
 ## Conference Reviewer
 - The 2025 IEEE 28th International Conference on Intelligent Transportation Systems
