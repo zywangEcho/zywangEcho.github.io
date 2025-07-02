@@ -12,7 +12,7 @@ redirect_from:
 
 Hi! I am a postgraduate student with the School of Transportation Science and Engineering, Key Laboratory of Autonomous Transportation Technology for Special Vehicles, Ministry of Industry and Information Technology, Beihang University and is supervised by Professor Peng Chen. Before that, I got my Bachelor degree at Beihang University.
 
-My research interests cover multi-agent interaction modeling in traffic flow and integration of prediction and planning for intelligent vehicles. **I am looking for like-minded researchers to collaborate on interaction-based closed-loop simulation models for complex scenarios in autonomous driving.**
+My research interests cover multi-agent interaction modeling in traffic flow and integration of prediction and planning for intelligent vehicles. **I am actively looking for PhD positions in autonomous vehicle and embodied AI, with a particular interest in generative network world model, multiModal learning.**
 
 # 📝 Publications 
 
@@ -23,14 +23,27 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 
  Peng Chen, **Ziyan Wang**, Bin Zhou, Guizhen Yu
 
- **IEEE Transactions on Intelligent Transportation Systems, 2024**
+ **IEEE Transactions on Intelligent Transportation Systems (TITS), 2024**
 
  [**Paper**](https://doi.org/10.1109/TITS.2024.3421233)
 
 -  We developed an innovative framework utilizing an autoencoder network with feature transfer to estimate urban dynamic origin-destination (OD) flows, leveraging both connected vehicle (CV) trajectories and automatic vehicle identification (AVI) data. Tested on a real-world road network, our model demonstrated superior performance, and showed robust estimation capabilities under varying observation conditions and data quality.
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='images/m_TITS2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making]
+
+ Tan Xiang*, ** Ziyan Wang* **, Ding Li, Peng Chen
+
+ **The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025**
+
+ [**Paper**]
+
+-  We propose Dynamic Game Informed Stochastic Search (DGSS), a decision-making framework that combines multi-tree Monte Carlo Tree Search with game-theoretic modeling by constructing a separate game tree for each surrounding vehicle to simulate recursive, turn-based interactions. Candidate maneuvers are evaluated using a multi-objective reward function that balances safety, spatial advantage, and efficiency. Experiments in a custom simulator and the nuPlan dataset show that DGSS significantly improves safety and interaction awareness compared to existing baselines, offering a robust and interpretable solution for autonomous lane-changing.
+</div>
+</div>
 # 🎖 Honors and Awards
 - *2024.11*, I won the National Scholarship for Graduate Students.
 - *2024.05*, Our team secured the 2nd place and innovation solution (Honorable Mention) in the track 4: Robust Depth Estimation of Robodrive Challenge. \| [\[report\]](https://robodrive-24.github.io/track4_buaa_trans.pdf) \|  [\[video\]](https://www.bilibili.com/video/BV11H4y1M7mp/?spm_id_from=333.337.search-card.all.click&vd_source=b8af9686fdf35815464746b215fc26e5)
