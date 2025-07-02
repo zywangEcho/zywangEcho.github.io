@@ -32,7 +32,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 -  We developed an innovative framework utilizing an autoencoder network with feature transfer to estimate urban dynamic origin-destination (OD) flows, leveraging both connected vehicle (CV) trajectories and automatic vehicle identification (AVI) data. Tested on a real-world road network, our model demonstrated superior performance, and showed robust estimation capabilities under varying observation conditions and data quality.
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='images/m_TITS2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making
