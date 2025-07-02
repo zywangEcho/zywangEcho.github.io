@@ -29,7 +29,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 
  [**Paper**](https://doi.org/10.1109/TITS.2024.3421233)
 
--  We developed an innovative framework utilizing an autoencoder network with feature transfer to estimate urban dynamic origin-destination (OD) flows, leveraging both connected vehicle (CV) trajectories and automatic vehicle identification (AVI) data. Tested on a real-world road network, our model demonstrated superior performance, and showed robust estimation capabilities under varying observation conditions and data quality.
+-  We developed an innovative framework utilizing an autoencoder network with feature transfer to estimate urban dynamic origin-destination flows, leveraging both connected vehicle trajectories and automatic vehicle identification data. Tested on a real-world road network, our model demonstrated superior performance, and showed robust estimation capabilities under varying observation conditions and data quality.
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
@@ -44,6 +44,20 @@ Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous
  [**Paper**]
 
 -  We propose Dynamic Game Informed Stochastic Search (DGSS), a novel decision-making framework that models recursive inter-vehicle interactions using multi-tree Monte Carlo Tree Search and game-theoretic principles. By simulating turn-based strategies for each surrounding vehicle and evaluating actions with a multi-objective reward, DGSS improves safety, efficiency, and interaction awareness in autonomous lane-changing. 
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Learning rollout from sampling: An R1-Style Tokenized Traffic Simulation Model
+
+**Ziyan Wang**, Peng Chen, Ding Li, Chiwei Li, Qichao Zhang, Zhongpu Xia, Dongbin Zhao, Guizhen Yu 
+
+ **arxiv, 2025**
+
+ [**Paper**]
+
+-  We propose R1Sim, a tokenized traffic simulation policy that enhances human-aligned behavior generation through reinforcement learning guided by motion token entropy. By introducing entropy-based adaptive sampling and optimizing via group relative policy optimization with human-preferred rewards, R1Sim enables diverse and meaningful exploration of traffic behaviors. 
 </div>
 </div>
 # 🎖 Honors and Awards
