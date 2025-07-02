@@ -14,6 +14,8 @@ Hi! I am a postgraduate student with the School of Transportation Science and En
 
 My research interests cover multi-agent interaction modeling in traffic flow and integration of prediction and planning for intelligent vehicles. **I am actively looking for PhD positions in autonomous vehicle and embodied AI, with a particular interest in generative network world model, multiModal learning.**
 
+**Status**: Seeking PhD positions in Fall 2026
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='images/m_TITS2024.png' alt="sym" width="100%"></div></div>
@@ -33,15 +35,15 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='images/m_TITS2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making]
+Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making
 
- Tan Xiang*, ** Ziyan Wang* **, Ding Li, Peng Chen
+ Tan Xiang<sup>1</sup>, **Ziyan Wang**<sup>1</sup>, Ding Li, Peng Chen
 
  **The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025**
 
  [**Paper**]
 
--  We propose Dynamic Game Informed Stochastic Search (DGSS), a decision-making framework that combines multi-tree Monte Carlo Tree Search with game-theoretic modeling by constructing a separate game tree for each surrounding vehicle to simulate recursive, turn-based interactions. Candidate maneuvers are evaluated using a multi-objective reward function that balances safety, spatial advantage, and efficiency. Experiments in a custom simulator and the nuPlan dataset show that DGSS significantly improves safety and interaction awareness compared to existing baselines, offering a robust and interpretable solution for autonomous lane-changing.
+-  We propose Dynamic Game Informed Stochastic Search (DGSS), a novel decision-making framework that models recursive inter-vehicle interactions using multi-tree Monte Carlo Tree Search and game-theoretic principles. By simulating turn-based strategies for each surrounding vehicle and evaluating actions with a multi-objective reward, DGSS improves safety, efficiency, and interaction awareness in autonomous lane-changing. Extensive experiments on a custom simulator and the nuPlan dataset validate its superior performance over existing baselines.
 </div>
 </div>
 # 🎖 Honors and Awards
