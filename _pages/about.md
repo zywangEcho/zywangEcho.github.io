@@ -43,7 +43,7 @@ Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous
 
  [**Paper**]
 
--  We propose Dynamic Game Informed Stochastic Search (DGSS), a novel decision-making framework that models recursive inter-vehicle interactions using multi-tree Monte Carlo Tree Search and game-theoretic principles. By simulating turn-based strategies for each surrounding vehicle and evaluating actions with a multi-objective reward, DGSS improves safety, efficiency, and interaction awareness in autonomous lane-changing. Extensive experiments on a custom simulator and the nuPlan dataset validate its superior performance over existing baselines.
+-  We propose Dynamic Game Informed Stochastic Search (DGSS), a novel decision-making framework that models recursive inter-vehicle interactions using multi-tree Monte Carlo Tree Search and game-theoretic principles. By simulating turn-based strategies for each surrounding vehicle and evaluating actions with a multi-objective reward, DGSS improves safety, efficiency, and interaction awareness in autonomous lane-changing. 
 </div>
 </div>
 # 🎖 Honors and Awards
