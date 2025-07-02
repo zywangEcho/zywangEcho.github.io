@@ -32,7 +32,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 -  We developed an innovative framework utilizing an autoencoder network with feature transfer to estimate urban dynamic origin-destination (OD) flows, leveraging both connected vehicle (CV) trajectories and automatic vehicle identification (AVI) data. Tested on a real-world road network, our model demonstrated superior performance, and showed robust estimation capabilities under varying observation conditions and data quality.
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making
@@ -47,9 +47,10 @@ Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous
 </div>
 </div>
 # 🎖 Honors and Awards
+- *2025.07*, Our team won the 3rd place in the Scenario generation track of the Third Onsite Autonomous Driving Algorithm Challenge.
 - *2024.11*, I won the National Scholarship for Graduate Students.
 - *2024.05*, Our team secured the 2nd place and innovation solution (Honorable Mention) in the track 4: Robust Depth Estimation of Robodrive Challenge. \| [\[report\]](https://robodrive-24.github.io/track4_buaa_trans.pdf) \|  [\[video\]](https://www.bilibili.com/video/BV11H4y1M7mp/?spm_id_from=333.337.search-card.all.click&vd_source=b8af9686fdf35815464746b215fc26e5)
-- *2023.06*, Our team won the 1st place in the Combined track and Intersection track of First Onsite Autonomous Driving Algorithm Challenge. \| [\[Link\]](http://news.buaa.edu.cn/info/1002/59563.htm)
+- *2023.06*, Our team won the 1st place in the Combined track and Intersection track of the First Onsite Autonomous Driving Algorithm Challenge. \| [\[Link\]](http://news.buaa.edu.cn/info/1002/59563.htm)
 - *2022.06*, Our team "A dynamic OD estimation method for urban road network based on mobile crowdsourcing and AVI data" project won the second prize in the main track of the 32nd Beihang "Feng Ru Cup".
 
 # 📖 Educations
