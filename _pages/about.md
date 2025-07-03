@@ -17,19 +17,18 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 **Status**: Seeking PhD positions in Fall 2026
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='images/m_TITS2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/pipeline_r1sim.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dynamic Origin-Destination Flow Imputation Using Feature-based Transfer Learning](https://doi.org/10.1109/TITS.2024.3421233)
+Learning rollout from sampling: An R1-Style Tokenized Traffic Simulation Model
 
- Peng Chen, **Ziyan Wang**, Bin Zhou, Guizhen Yu
+**Ziyan Wang**, Peng Chen, Ding Li, Chiwei Li, Qichao Zhang, Zhongpu Xia, Dongbin Zhao, Guizhen Yu 
 
- **IEEE Transactions on Intelligent Transportation Systems (TITS), 2024**
+ **arxiv, 2025**
 
- [**Paper**](https://doi.org/10.1109/TITS.2024.3421233)
+ [**Paper**]
 
--  We developed an innovative framework utilizing an autoencoder network with feature transfer to estimate urban dynamic origin-destination flows, leveraging both connected vehicle trajectories and automatic vehicle identification data. Tested on a real-world road network, our model demonstrated superior performance, and showed robust estimation capabilities under varying observation conditions and data quality.
+-  We propose R1Sim, a tokenized traffic simulation policy that enhances human-aligned behavior generation through reinforcement learning guided by motion token entropy. By introducing entropy-based adaptive sampling and optimizing via group relative policy optimization with human-preferred rewards, R1Sim enables diverse and meaningful exploration of traffic behaviors. 
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
@@ -46,20 +45,22 @@ Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous
 -  We propose Dynamic Game Informed Stochastic Search (DGSS), a novel decision-making framework that models recursive inter-vehicle interactions using multi-tree Monte Carlo Tree Search and game-theoretic principles. By simulating turn-based strategies for each surrounding vehicle and evaluating actions with a multi-objective reward, DGSS improves safety, efficiency, and interaction awareness in autonomous lane-changing. 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/pipeline_r1sim.jpg' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='images/m_TITS2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Learning rollout from sampling: An R1-Style Tokenized Traffic Simulation Model
+[Dynamic Origin-Destination Flow Imputation Using Feature-based Transfer Learning](https://doi.org/10.1109/TITS.2024.3421233)
 
-**Ziyan Wang**, Peng Chen, Ding Li, Chiwei Li, Qichao Zhang, Zhongpu Xia, Dongbin Zhao, Guizhen Yu 
+ Peng Chen, **Ziyan Wang**, Bin Zhou, Guizhen Yu
 
- **arxiv, 2025**
+ **IEEE Transactions on Intelligent Transportation Systems (TITS), 2024**
 
- [**Paper**]
+ [**Paper**](https://doi.org/10.1109/TITS.2024.3421233)
 
--  We propose R1Sim, a tokenized traffic simulation policy that enhances human-aligned behavior generation through reinforcement learning guided by motion token entropy. By introducing entropy-based adaptive sampling and optimizing via group relative policy optimization with human-preferred rewards, R1Sim enables diverse and meaningful exploration of traffic behaviors. 
+-  We developed an innovative framework utilizing an autoencoder network with feature transfer to estimate urban dynamic origin-destination flows, leveraging both connected vehicle trajectories and automatic vehicle identification data. Tested on a real-world road network, our model demonstrated superior performance, and showed robust estimation capabilities under varying observation conditions and data quality.
 </div>
 </div>
+
 # 🎖 Honors and Awards
 - *2025.07*, Our team won the 3rd place in the Scenario generation track of the Third Onsite Autonomous Driving Algorithm Challenge.
 - *2024.11*, I won the National Scholarship for Graduate Students.
