@@ -20,7 +20,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/pipeline_r1sim.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Learning rollout from sampling: An R1-Style Tokenized Traffic Simulation Model
+**Learning rollout from sampling: An R1-Style Tokenized Traffic Simulation Model**
 
 **Ziyan Wang**, Peng Chen, Ding Li, Chiwei Li, Qichao Zhang, Zhongpu Xia, Dongbin Zhao, Guizhen Yu 
 
@@ -34,7 +34,7 @@ Learning rollout from sampling: An R1-Style Tokenized Traffic Simulation Model
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making
+**Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making**
 
  Tan Xiang<sup>1</sup>, **Ziyan Wang**<sup>1</sup>, Ding Li, Peng Chen
 
