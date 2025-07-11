@@ -40,7 +40,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 
  **The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025**
 
- [**Paper**]\|  [\[**video**]](https://sites.google.com/view/plan-dgss)
+ [**Paper**]\| [**video**](https://sites.google.com/view/plan-dgss)
 
 -  We propose Dynamic Game Informed Stochastic Search (DGSS), a novel decision-making framework that models recursive inter-vehicle interactions using multi-tree Monte Carlo Tree Search and game-theoretic principles. By simulating turn-based strategies for each surrounding vehicle and evaluating actions with a multi-objective reward, DGSS improves safety, efficiency, and interaction awareness in autonomous lane-changing. 
 </div>
