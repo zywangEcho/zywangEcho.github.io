@@ -22,7 +22,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 
 ****
 
-**Ziyan Wang**, Peng Chen, Ding Li, Chiwei Li, Qichao Zhang, Zhongpu Xia, Guizhen Yu 
+**Ziyan Wang**
 
  **arxiv, 2025**
 
