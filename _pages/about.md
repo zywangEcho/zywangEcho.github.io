@@ -69,7 +69,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 - *2022.06*, Our team "A dynamic OD estimation method for urban road network based on mobile crowdsourcing and AVI data" project won the second prize in the main track of the 32nd Beihang "Feng Ru Cup".
 
 # 📖 Educations
-- *2023.09 - 2026.01 (now)*, Master of Engineering, Transportation Engineering, Beihang University, Beijing, China. 
+- *2023.09 - 2026.07 (now)*, Master of Engineering, Transportation Engineering, Beihang University, Beijing, China. 
 - *2019.09 - 2023.06*, Bachelor of Engineering, Transportation Engineering, Beihang University, Beijing, China. 
 
 # 📚 Academic Services
@@ -77,4 +77,5 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 - Journal of Intelligent Transportation Systems
 
 ## Conference Reviewer
-- The 2025 IEEE 28th International Conference on Intelligent Transportation Systems
+- The IEEE International Conference on Intelligent Transportation Systems
+- The IEEE Intelligent Vehicles Symposium
