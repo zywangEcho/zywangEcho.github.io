@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a postgraduate student with the School of Transportation Science and Engineering, Key Laboratory of Autonomous Transportation Technology for Special Vehicles, Ministry of Industry and Information Technology, Beihang University and is supervised by Professor [Peng Chen](http://www.cpengbuaa.com/). Before that, I got my Bachelor degree at Beihang University.
+Hi! I am a postgraduate student with the School of Transportation Science and Engineering, Key Laboratory of Autonomous Transportation Technology for Special Vehicles, Ministry of Industry and Information Technology, Beihang University, working under the supervision of Professor [Peng Chen](http://www.cpengbuaa.com/). Before that, I got my Bachelor degree at Beihang University.
 
 My research interests cover multi-agent interaction modeling in traffic flow and integration of prediction and planning for intelligent vehicles. **I am actively looking for PhD positions in autonomous vehicle and embodied AI, with a particular interest in generative network world model, multimodal learning.**
 
