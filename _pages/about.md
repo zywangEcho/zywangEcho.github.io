@@ -37,7 +37,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 
 **Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making**
 
- Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
+ Tan Xiang, **Ziyan Wang**, Ding Li, Peng Chen
 
  **The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025**
 
@@ -67,7 +67,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 - [Dynamic Origin-Destination Flow Imputation Using Feature-based Transfer Learning](https://doi.org/10.1109/TITS.2024.3421233),Peng Chen, **Ziyan Wang**, Bin Zhou, Guizhen Yu,  IEEE Transactions on Intelligent Transportation Systems (TITS), 2024
 
 ### Conference
-- Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making, Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen,  The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025
+- Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making, Tan Xiang, **Ziyan Wang**, Ding Li, Peng Chen,  The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025
 
 
 # 🎖 Honors and Awards
