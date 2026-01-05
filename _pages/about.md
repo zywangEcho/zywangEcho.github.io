@@ -17,6 +17,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 **Status**: Seeking PhD positions in Fall 2026
 
 # 📝 Publications 
+## Highlights
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/pipeline_r1sim.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -36,7 +37,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 
 **Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making**
 
- Tan Xiang<sup>1</sup>, **Ziyan Wang**<sup>1</sup>, Ding Li, Peng Chen
+ Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 
  **The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025**
 
@@ -60,6 +61,14 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 -  We developed an innovative framework utilizing an autoencoder network with feature transfer to estimate urban dynamic origin-destination flows, leveraging both connected vehicle trajectories and automatic vehicle identification data. Tested on a real-world road network, our model demonstrated superior performance, and showed robust estimation capabilities under varying observation conditions and data quality.
 </div>
 </div>
+
+## All Publications
+### Journal
+- [Dynamic Origin-Destination Flow Imputation Using Feature-based Transfer Learning](https://doi.org/10.1109/TITS.2024.3421233),Peng Chen, **Ziyan Wang**, Bin Zhou, Guizhen Yu,  IEEE Transactions on Intelligent Transportation Systems (TITS), 2024
+
+### Conference
+- Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making, Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen,  The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025
+
 
 # 🎖 Honors and Awards
 - *2025.07*, Our team won the 3rd place in the Scenario generation track of the Third Onsite Autonomous Driving Algorithm Challenge. [\[Link\]](https://tops.tongji.edu.cn/info/1002/2363.htm)
