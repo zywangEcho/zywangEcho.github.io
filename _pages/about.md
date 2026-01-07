@@ -14,8 +14,6 @@ Hi! I am a postgraduate student with the School of Transportation Science and En
 
 My research interests cover multi-agent interaction modeling in traffic flow and integration of prediction and planning for intelligent vehicles. **I am actively looking for PhD positions in autonomous vehicle and embodied AI, with a particular interest in generative network world model, multimodal learning.**
 
-**Status**: Seeking PhD positions in Fall 2026
-
 # 📝 Publications 
 ## Highlights
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/pipeline_r1sim.jpg' alt="sym" width="100%"></div></div>
