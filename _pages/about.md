@@ -19,7 +19,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/pipeline_r1sim.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Learning Rollout from Sampling: An R1-Style Tokenized Traffic Simulation Model
+**Learning Rollout from Sampling: An R1-Style Tokenized Traffic Simulation Model**
 
 **Ziyan Wang**
 
