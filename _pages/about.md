@@ -21,7 +21,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 
 **Learning Rollout from Sampling: An R1-Style Tokenized Traffic Simulation Model**
 
-**Ziyan Wang**
+**Ziyan Wang**, Peng Chen, Ding Li, Chiwei Li, Qichao Zhang, zhongpu Xia, Guizhen Yu
 
  **IEEE Robotics and Automation Letters (RA-L), 2026**
 
