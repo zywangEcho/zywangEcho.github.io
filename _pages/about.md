@@ -62,13 +62,15 @@ Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 
 ## All Publications
 ### Journal
+- Learning Rollout from Sampling: An R1-Style Tokenized Traffic Simulation Model, Ziyan Wang, Peng Chen, Ding Li, Chiwei Li, Qichao Zhang, zhongpu Xia, Guizhen Yu, IEEE Robotics and Automation Letters (RA-L), 2026
 - [Dynamic Origin-Destination Flow Imputation Using Feature-based Transfer Learning](https://doi.org/10.1109/TITS.2024.3421233), Peng Chen, **Ziyan Wang**, Bin Zhou, Guizhen Yu, IEEE Transactions on Intelligent Transportation Systems (TITS), 2024
 
 ### Conference
 - Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making, Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen, The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025
 
 
-# 🎖 Honors and Awards
+# 🎖 News
+- *2026.03*, One first-authored paper accepted by RA-L!
 - *2025.07*, Our team won the 3rd place in the Scenario generation track of the Third Onsite Autonomous Driving Algorithm Challenge. [\[Link\]](https://tops.tongji.edu.cn/info/1002/2363.htm)
 - *2024.11*, I won the National Scholarship for Graduate Students.
 - *2024.05*, Our team secured the 2nd place and innovation solution (Honorable Mention) in the track 4: Robust Depth Estimation of Robodrive Challenge. \| [\[report\]](https://robodrive-24.github.io/track4_buaa_trans.pdf) \|  [\[video\]](https://www.bilibili.com/video/BV11H4y1M7mp/?spm_id_from=333.337.search-card.all.click&vd_source=b8af9686fdf35815464746b215fc26e5)
