@@ -16,7 +16,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 
 # 📝 Publications 
 ## Highlights
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/pipeline_r1sim.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/pipeline_r1sim.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Learning Rollout from Sampling: An R1-Style Tokenized Traffic Simulation Model
@@ -30,7 +30,7 @@ Learning Rollout from Sampling: An R1-Style Tokenized Traffic Simulation Model
 -  We propose R1Sim, a tokenized traffic simulation policy that enhances human-aligned behavior generation through reinforcement learning guided by motion token entropy. By introducing entropy-based adaptive sampling and optimizing via group relative policy optimization with human-preferred rewards, R1Sim enables diverse and meaningful exploration of traffic behaviors. 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC</div><img src='images/pipeline_r1sim.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making**
