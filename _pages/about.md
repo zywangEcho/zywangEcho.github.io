@@ -62,7 +62,8 @@ Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 
 ## All Publications
 ### Journal
-- Learning Rollout from Sampling: An R1-Style Tokenized Traffic Simulation Model, **Ziyan Wang**, Peng Chen, Ding Li, Chiwei Li, Qichao Zhang, zhongpu Xia, Guizhen Yu, IEEE Robotics and Automation Letters (RA-L), 2026
+- Dynamic OD Estimation Using Spatio-Temporal Hybrid Graph Convolutional Network with Asynchronous Multi-Source Data, Peng Chen, Ying Guo, **Ziyan Wang**, Sheng Dong, Lei Wei, IEEE Transactions on Intelligent Transportation Systems (TITS), 2026
+- Learning Rollout from Sampling: An R1-Style Tokenized Traffic Simulation Model, **Ziyan Wang**, Peng Chen, Ding Li, Chiwei Li, Qichao Zhang, Zhongpu Xia, Guizhen Yu, IEEE Robotics and Automation Letters (RA-L), 2026
 - [Dynamic Origin-Destination Flow Imputation Using Feature-based Transfer Learning](https://doi.org/10.1109/TITS.2024.3421233), Peng Chen, **Ziyan Wang**, Bin Zhou, Guizhen Yu, IEEE Transactions on Intelligent Transportation Systems (TITS), 2024
 
 ### Conference
