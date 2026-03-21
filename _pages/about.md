@@ -33,7 +33,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making**
+[**Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making**](https://doi.org/10.1109/ITSC60802.2025.11423200)
 
 Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 
@@ -48,7 +48,7 @@ Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='images/m_TITS2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dynamic Origin-Destination Flow Imputation Using Feature-based Transfer Learning](https://doi.org/10.1109/TITS.2024.3421233)
+[**Dynamic Origin-Destination Flow Imputation Using Feature-based Transfer Learning**](https://doi.org/10.1109/TITS.2024.3421233)
 
  Peng Chen, **Ziyan Wang**, Bin Zhou, Guizhen Yu
 
