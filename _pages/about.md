@@ -39,7 +39,7 @@ Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 
  **The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025**
 
- [**Paper**]\| [**video**](https://sites.google.com/view/plan-dgss)
+ [**Paper**](https://doi.org/10.1109/ITSC60802.2025.11423200)\| [**video**](https://sites.google.com/view/plan-dgss)
 
 -  We propose Dynamic Game Informed Stochastic Search (DGSS), a novel decision-making framework that models recursive inter-vehicle interactions using multi-tree Monte Carlo Tree Search and game-theoretic principles. By simulating turn-based strategies for each surrounding vehicle and evaluating actions with a multi-objective reward, DGSS improves safety, efficiency, and interaction awareness in autonomous lane-changing. 
 </div>
@@ -67,7 +67,7 @@ Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 - [Dynamic Origin-Destination Flow Imputation Using Feature-based Transfer Learning](https://doi.org/10.1109/TITS.2024.3421233), Peng Chen, **Ziyan Wang**, Bin Zhou, Guizhen Yu, IEEE Transactions on Intelligent Transportation Systems (TITS), 2024
 
 ### Conference
-- Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making, Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen, The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025
+- [Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making](https://doi.org/10.1109/ITSC60802.2025.11423200), Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen, The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025
 
 
 # 🎖 News
