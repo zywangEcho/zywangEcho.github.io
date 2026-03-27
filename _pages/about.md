@@ -25,7 +25,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 
  **IEEE Robotics and Automation Letters (RA-L), 2026**
 
- [**Paper**]\| [**video**](https://sites.google.com/view/r1sim)
+ [**Paper**](https://arxiv.org/pdf/2603.24989)\| [**video**](https://sites.google.com/view/r1sim)
 
 -  We propose R1Sim, a tokenized traffic simulation policy that enhances human-aligned behavior generation through reinforcement learning guided by motion token entropy. By introducing entropy-based adaptive sampling and optimizing via group relative policy optimization with human-preferred rewards, R1Sim enables diverse and meaningful exploration of traffic behaviors. 
 </div>
@@ -33,7 +33,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making**](https://doi.org/10.1109/ITSC60802.2025.11423200)
+**Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making**
 
 Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 
@@ -48,7 +48,7 @@ Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='images/m_TITS2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Dynamic Origin-Destination Flow Imputation Using Feature-based Transfer Learning**](https://doi.org/10.1109/TITS.2024.3421233)
+**Dynamic Origin-Destination Flow Imputation Using Feature-based Transfer Learning**
 
  Peng Chen, **Ziyan Wang**, Bin Zhou, Guizhen Yu
 
@@ -64,10 +64,10 @@ Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 ### Journal
 - Dynamic OD Estimation Using Spatio-Temporal Hybrid Graph Convolutional Network with Asynchronous Multi-Source Data, Peng Chen, Ying Guo, **Ziyan Wang**, Sheng Dong, Lei Wei, IEEE Transactions on Intelligent Transportation Systems (TITS), 2026
 - Learning Rollout from Sampling: An R1-Style Tokenized Traffic Simulation Model, **Ziyan Wang**, Peng Chen, Ding Li, Chiwei Li, Qichao Zhang, Zhongpu Xia, Guizhen Yu, IEEE Robotics and Automation Letters (RA-L), 2026
-- [Dynamic Origin-Destination Flow Imputation Using Feature-based Transfer Learning](https://doi.org/10.1109/TITS.2024.3421233), Peng Chen, **Ziyan Wang**, Bin Zhou, Guizhen Yu, IEEE Transactions on Intelligent Transportation Systems (TITS), 2024
+- Dynamic Origin-Destination Flow Imputation Using Feature-based Transfer Learning, Peng Chen, **Ziyan Wang**, Bin Zhou, Guizhen Yu, IEEE Transactions on Intelligent Transportation Systems (TITS), 2024
 
 ### Conference
-- [Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making](https://doi.org/10.1109/ITSC60802.2025.11423200), Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen, The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025
+- Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making, Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen, The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025
 
 
 # 🎖 News
