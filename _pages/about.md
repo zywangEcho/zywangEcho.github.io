@@ -63,11 +63,11 @@ Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 ## All Publications
 ### Journal
 - Dynamic OD Estimation Using Spatio-Temporal Hybrid Graph Convolutional Network with Asynchronous Multi-Source Data, Peng Chen, Ying Guo, **Ziyan Wang**, Sheng Dong, Lei Wei, IEEE Transactions on Intelligent Transportation Systems (TITS), 2026
-- Learning Rollout from Sampling: An R1-Style Tokenized Traffic Simulation Model, **Ziyan Wang**, Peng Chen, Ding Li, Chiwei Li, Qichao Zhang, Zhongpu Xia, Guizhen Yu, IEEE Robotics and Automation Letters (RA-L), 2026
-- Dynamic Origin-Destination Flow Imputation Using Feature-based Transfer Learning, Peng Chen, **Ziyan Wang**, Bin Zhou, Guizhen Yu, IEEE Transactions on Intelligent Transportation Systems (TITS), 2024
+- Learning Rollout from Sampling: An R1-Style Tokenized Traffic Simulation Model, **Ziyan Wang**, Peng Chen, Ding Li, Chiwei Li, Qichao Zhang, Zhongpu Xia, Guizhen Yu, IEEE Robotics and Automation Letters, 2026, vol. 11, no. 5, pp. 6336-6343.
+- Dynamic Origin-Destination Flow Imputation Using Feature-based Transfer Learning, Peng Chen, **Ziyan Wang**, Bin Zhou, Guizhen Yu, IEEE Transactions on Intelligent Transportation Systems, 2024, vol. 25, no. 11, pp. 17147-17159,
 
 ### Conference
-- Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making, Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen, The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025
+- Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making, Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen, The IEEE International Conference on Intelligent Transportation Systems, 2025, pp. 4382-4388.
 
 
 # 🎖 News
