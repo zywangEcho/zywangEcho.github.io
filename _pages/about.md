@@ -25,7 +25,7 @@ My research interests cover multi-agent interaction modeling in traffic flow and
 
  **IEEE Robotics and Automation Letters (RA-L), 2026**
 
- [**Paper**](https://arxiv.org/pdf/2603.24989)\| [**video**](https://sites.google.com/view/r1sim)
+ [**Paper**](https://doi.org/10.1109/LRA.2026.3678842)\| [**video**](https://sites.google.com/view/r1sim)
 
 -  We propose R1Sim, a tokenized traffic simulation policy that enhances human-aligned behavior generation through reinforcement learning guided by motion token entropy. By introducing entropy-based adaptive sampling and optimizing via group relative policy optimization with human-preferred rewards, R1Sim enables diverse and meaningful exploration of traffic behaviors. 
 </div>
