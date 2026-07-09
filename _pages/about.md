@@ -81,14 +81,15 @@ Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 - *2019.09 - 2023.06*, Bachelor of Engineering, Transportation Engineering, Beihang University, Beijing, China. 
 
 # Industrial Experience
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/Baidu.svg' alt="Baidu" width="100%">
-    </div>
-  </div>
 
-  <div class='paper-box-text' markdown="1">
+<div class="paper-box">
+<div class="paper-box-image">
+<div>
+<img src="images/Baidu.svg" alt="Baidu" width="100%">
+</div>
+</div>
+
+<div class="paper-box-text" markdown="1">
 
 **Research Intern, Vision-Language Group, Baidu**
 
@@ -96,10 +97,11 @@ Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 
 - Conducted research and development on vision-language models and multimodal understanding.
 - Worked on model training, evaluation, and algorithm implementation for intelligent perception tasks.
-- Research intern hosted by Dr.Meng Yao.
+- Research intern hosted by Dr. Meng Yao.
 
-  </div>
 </div>
+</div>
+
 
 # 📚 Academic Services
 ## Journal Reviewer
