@@ -84,7 +84,7 @@ Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/baidu_logo.png' alt="Baidu" width="100%">
+      <img src='images/Baidu.svg' alt="Baidu" width="100%">
     </div>
   </div>
 
@@ -96,6 +96,7 @@ Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 
 - Conducted research and development on vision-language models and multimodal understanding.
 - Worked on model training, evaluation, and algorithm implementation for intelligent perception tasks.
+- Research intern hosted by Dr.Meng Yao.
 
   </div>
 </div>
