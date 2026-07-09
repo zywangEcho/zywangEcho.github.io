@@ -85,7 +85,7 @@ Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 <div class="paper-box">
 <div class="paper-box-image">
 <div>
-<img src="images/Baidu.svg" alt="Baidu" width="100%">
+<img src="images/Baidu.svg.png" alt="Baidu" width="100%">
 </div>
 </div>
 
