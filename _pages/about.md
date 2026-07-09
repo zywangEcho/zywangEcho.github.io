@@ -10,9 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a postgraduate student with the School of Transportation Science and Engineering, Key Laboratory of Autonomous Transportation Technology for Special Vehicles, Ministry of Industry and Information Technology, Beihang University, working under the supervision of Professor [Peng Chen](http://www.cpengbuaa.com/). Before that, I got my Bachelor degree at Beihang University.
-
-My research interests cover multi-agent interaction modeling in traffic flow and integration of prediction and planning for intelligent vehicles. **I am actively looking for PhD positions in autonomous vehicle and embodied AI, with a particular interest in generative network world model, multimodal learning.**
+Hi! I am a postgraduate student with the School of Transportation Science and Engineering, Key Laboratory of Autonomous Transportation Technology for Special Vehicles, Ministry of Industry and Information Technology, Beihang University, working under the supervision of Professor [Peng Chen](http://www.cpengbuaa.com/). Before that, I got my Bachelor degree at Beihang University. My research interests cover multi-agent interaction modeling in traffic flow and integration of prediction and planning for intelligent vehicles. 
 
 # 📝 Publications 
 ## Highlights
@@ -81,6 +79,26 @@ Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
 # 📖 Educations
 - *2023.09 - 2026.07 (now)*, Master of Engineering, Transportation Engineering, Beihang University, Beijing, China. 
 - *2019.09 - 2023.06*, Bachelor of Engineering, Transportation Engineering, Beihang University, Beijing, China. 
+
+# Industrial Experience
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/baidu_logo.png' alt="Baidu" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+**Research Intern, Vision-Language Group, Baidu**
+
+*2026.07 - present, Beijing, China*
+
+- Conducted research and development on vision-language models and multimodal understanding.
+- Worked on model training, evaluation, and algorithm implementation for intelligent perception tasks.
+
+  </div>
+</div>
 
 # 📚 Academic Services
 ## Journal Reviewer
