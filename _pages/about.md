@@ -33,7 +33,7 @@ Hi! I am a postgraduate student with the School of Transportation Science and En
 
 **Dynamic Game-Informed Lane Changing: Leveraging Stochastic Search for Autonomous Vehicle Decision-Making**
 
-Tan Xiang<sup>*</sup>, **Ziyan Wang**<sup>*</sup>, Ding Li, Peng Chen
+Tan Xiang, **Ziyan Wang**, Ding Li, Peng Chen
 
  **The IEEE International Conference on Intelligent Transportation Systems (ITSC), 2025**
 
