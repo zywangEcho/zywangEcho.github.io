@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a postgraduate student with the School of Transportation Science and Engineering, Key Laboratory of Autonomous Transportation Technology for Special Vehicles, Ministry of Industry and Information Technology, Beihang University, working under the supervision of Professor [Peng Chen](http://www.cpengbuaa.com/). Before that, I got my Bachelor degree at Beihang University. My research interests cover multi-agent interaction modeling in traffic flow and integration of prediction and planning for intelligent vehicles. 
+Hi! I am currently a PhD student at The University of Hong Kong (HKU), supervised by Prof. [Xintao Yan](https://yougeyxt.github.io/). I obtained my MSc in Transportation Engineering from Beihang University in 2026, supervised by Prof. [Peng Chen](http://www.cpengbuaa.com/). Before that, I got my Bachelor degree at Beihang University. My research interests cover generative simulation and world model. 
 
 # 📝 Publications 
 ## Highlights
@@ -77,7 +77,8 @@ Tan Xiang, **Ziyan Wang**, Ding Li, Peng Chen
 - *2022.06*, Our team "A dynamic OD estimation method for urban road network based on mobile crowdsourcing and AVI data" project won the second prize in the main track of the 32nd Beihang "Feng Ru Cup".
 
 # 📖 Educations
-- *2023.09 - 2026.07 (now)*, Master of Engineering, Transportation Engineering, Beihang University, Beijing, China. 
+- *2026.09 - present*, PhD, Transportation Engineering, The University of Hong Kong, Hong Kong, China.
+- *2023.09 - 2026.07*, Master of Engineering, Transportation Engineering, Beihang University, Beijing, China. 
 - *2019.09 - 2023.06*, Bachelor of Engineering, Transportation Engineering, Beihang University, Beijing, China. 
 
 # Industrial Experience
