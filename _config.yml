@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ziyan Wang"
   avatar           : "images/photo_1.jpg"
-  bio              : "Beihang University"
-  location         : "Beijing, China"
+  bio              : "The University of Hong Kong"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EVVXo34AAAAJ&hl=zh-CN"
-  email            : "Wangzyecho@buaa.edu.cn"
+  email            : "z1yanwang@connect.hku.hk"
   researchgate     : "https://www.researchgate.net/profile/Ziyan-Wang-46"
   uri              :
   bitbucket        :
