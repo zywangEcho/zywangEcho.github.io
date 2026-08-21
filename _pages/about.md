@@ -69,6 +69,7 @@ Tan Xiang, **Ziyan Wang**, Ding Li, Peng Chen
 
 
 # 🎖 News
+- *2026.07*, My master’s thesis, “Autoregressive Generation of Traffic Scenarios for Autonomous Driving Testing,” was recognized as an Outstanding Graduate Thesis by Beihang University!
 - *2026.03*, One first-authored paper has been accepted by RA-L!
 - *2025.07*, Our team won the 3rd place in the Scenario generation track of the Third Onsite Autonomous Driving Algorithm Challenge. [\[Link\]](https://tops.tongji.edu.cn/info/1002/2363.htm)
 - *2024.11*, I won the National Scholarship for Graduate Students.
